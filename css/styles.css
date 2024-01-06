@@ -1,0 +1,43 @@
+.navbar-logo{
+    height: 80px;
+}
+
+.banner-section-image{
+    background-image: url(../img/hotel1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 550px;
+}
+
+.margin-banner-text{
+    margin-top: 180px;
+}
+
+.banner-section-text{
+    color: rgb(243, 228, 13);
+}
+
+.bg-card-header{
+background-color: aqua;
+width: 100%;
+margin-top: 20px;
+border-radius: 10px;
+padding: 10px;
+transition: background-color 0.3s ease-in-out;
+}
+
+.bg-card-header:hover{
+    background-color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #3498db;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  a:hover {
+    color: #e74c3c;
+  }
